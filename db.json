@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "name": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "phone": "1234567",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time markets"
+      },
+      "id": 1
+    },
+    {
+      "name": "Eva J Thomas",
+      "email": "Shanna@melissa.tv",
+      "phone": "01069265",
+      "website": "anastasia.net",
+      "company": {
+        "name": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      },
+      "id": 2
+    },
+    {
+      "name": "Clementine Bauch",
+      "email": "Nathan@yesenia.net",
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "we make food for you"
+      },
+      "id": 3
+    },
+    {
+      "name": "Patricia Lebsack",
+      "email": "Julianne.OConner@k.org",
+      "phone": "493170962",
+      "website": "kale.biz",
+      "company": {
+        "name": "Robel",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      },
+      "id": 4
+    },
+    {
+      "name": "Anna Spitsyna",
+      "email": "asp@gmail.com",
+      "phone": "48367839809",
+      "website": "",
+      "company": {
+        "name": "My company",
+        "catchPhrase": "hop hey lalaley",
+        "bs": "?"
+      },
+      "id": 5
+    }
+  ]
+}
