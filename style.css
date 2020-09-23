@@ -82,9 +82,8 @@ input{
   opacity: .7
 }
 
-.img-centered{
-  display: block;
-  margin: 5px auto;
+.img-error{
+  height: 250px;
 }
 
 .error-screen{
