@@ -47,18 +47,6 @@
         "bs": "transition cutting-edge web services"
       },
       "id": 4
-    },
-    {
-      "name": "Anna Spitsyna",
-      "email": "asp@gmail.com",
-      "phone": "48367839809",
-      "website": "",
-      "company": {
-        "name": "My company",
-        "catchPhrase": "hop hey lalaley",
-        "bs": "?"
-      },
-      "id": 5
     }
   ]
 }
